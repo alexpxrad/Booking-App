@@ -1,0 +1,8 @@
+
+{
+"env" : {
+    "MONGO_USER" : "alextechdev1988",
+    "MONGO_PASSWORD" : "VlxfPkg1FCHAXVRB",
+    "MONGO_DB" : "events-react-dev"
+    }
+}
